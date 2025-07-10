@@ -5,7 +5,7 @@ Bem-vindo ao repositório do NLW Project!
 Este projeto é composto por duas principais aplicações:
 
 - **server/**: Backend da aplicação, construído com Node.js, TypeScript, Fastify e Drizzle ORM para integração com banco de dados PostgreSQL. Utiliza validação de ambiente com Zod e segue padrões modernos de modularização e validação.
-- **web/**: Frontend da aplicação, geralmente desenvolvido com frameworks modernos como React, Vite ou Next.js, proporcionando uma interface rápida e interativa para o usuário.
+- **web/**: Frontend da aplicação, desenvolvido React e tailwindcss, proporcionando uma interface rápida e interativa para o usuário.
 
 ## Tecnologias Utilizadas
 
@@ -13,7 +13,7 @@ Este projeto é composto por duas principais aplicações:
 - **Fastify**: Framework web rápido e eficiente para APIs REST.
 - **Drizzle ORM & PostgreSQL**: Gerenciamento e integração com banco de dados relacional.
 - **Zod**: Validação de dados e variáveis de ambiente.
-- **React, Vite ou Next.js**: Utilizados no frontend para construção de interfaces modernas e responsivas.
+- **React, Vite(build) e TailwindCSS**: Utilizados no frontend para construção de interfaces modernas e responsivas.
 
 ## Estrutura do Projeto
 
